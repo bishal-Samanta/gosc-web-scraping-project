@@ -1,4 +1,6 @@
+
 # Python Web Scraping Project
+
 
 ## Project Overview
 This Python web scraping project is developed for learning and exploration purposes, with no malicious intentions. It aims to provide a practical application of web scraping techniques using Selenium and BeautifulSoup, focusing on extracting data from the Google Summer of Code (GSoC) portal.
